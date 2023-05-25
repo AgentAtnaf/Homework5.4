@@ -1,0 +1,15 @@
+E:\University\Year 22\Code\Homework5.4\bin\Debug\net6.0\Homework5.4.exe
+E:\University\Year 22\Code\Homework5.4\bin\Debug\net6.0\Homework5.4.deps.json
+E:\University\Year 22\Code\Homework5.4\bin\Debug\net6.0\Homework5.4.runtimeconfig.json
+E:\University\Year 22\Code\Homework5.4\bin\Debug\net6.0\Homework5.4.dll
+E:\University\Year 22\Code\Homework5.4\bin\Debug\net6.0\ref\Homework5.4.dll
+E:\University\Year 22\Code\Homework5.4\bin\Debug\net6.0\Homework5.4.pdb
+E:\University\Year 22\Code\Homework5.4\obj\Debug\net6.0\Homework5.4.csproj.AssemblyReference.cache
+E:\University\Year 22\Code\Homework5.4\obj\Debug\net6.0\Homework5.4.GeneratedMSBuildEditorConfig.editorconfig
+E:\University\Year 22\Code\Homework5.4\obj\Debug\net6.0\Homework5.4.AssemblyInfoInputs.cache
+E:\University\Year 22\Code\Homework5.4\obj\Debug\net6.0\Homework5.4.AssemblyInfo.cs
+E:\University\Year 22\Code\Homework5.4\obj\Debug\net6.0\Homework5.4.csproj.CoreCompileInputs.cache
+E:\University\Year 22\Code\Homework5.4\obj\Debug\net6.0\Homework5.4.dll
+E:\University\Year 22\Code\Homework5.4\obj\Debug\net6.0\ref\Homework5.4.dll
+E:\University\Year 22\Code\Homework5.4\obj\Debug\net6.0\Homework5.4.pdb
+E:\University\Year 22\Code\Homework5.4\obj\Debug\net6.0\Homework5.4.genruntimeconfig.cache
